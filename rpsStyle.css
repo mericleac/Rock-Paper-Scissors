@@ -1,0 +1,23 @@
+#intro, #results {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+#scores {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: inline-block;
+}
+
+button {
+    height: 100px;
+    width: 33%;
+    background: transparent;
+    border: transparent;
+}
+
+img {
+    height: 100px;
+    width: 33%;
+    opacity: 1;
+    cursor: pointer;
+}
